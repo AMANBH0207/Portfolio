@@ -1,0 +1,35 @@
+.footer{
+    background-color: #080112;
+}
+.contact{
+    display: flex;
+    padding: 2rem 10rem;
+    color: aliceblue;
+}
+.allSocLinks{
+    width:25%;
+    display: flex;
+    justify-content: space-between;
+}
+.socialLinks{
+    color: aliceblue;
+    height: 20px;
+    width: 20px;
+    padding:1rem;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.socialLinks:hover{
+    color:#874dbd;
+}
+.logoAtFooter img{
+    height: 25rem;
+}
+@media screen and (max-width: 768px) {
+    .contact{
+        padding:2rem 1rem;
+    }
+    .logoAtFooter img{
+        height: 5rem;
+    }
+}

@@ -1,0 +1,47 @@
+.workExperience{
+    color: aliceblue;
+    padding:6rem 10rem;
+}
+.workExpCont{
+    padding-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+.ExpCard{
+    width: 40%;
+    display: flex;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background: linear-gradient(135deg, #130328, #331162);
+}
+.ExpCard h4, h6{
+    margin: 0;
+}
+.ExpCard img{
+    margin: auto;
+    border-radius: 50%;
+    height: 5rem;
+}
+.ExpCard div{
+    padding: 1rem;
+}
+@media screen and (max-width: 768px) {
+    .workExperience{
+        padding:6rem 1rem;
+    }
+    .workExpCont{
+        padding-top: 2rem;
+        display: block;
+    }
+        .ExpCard {
+            margin: 2rem 0;
+            width: -webkit-fill-available;
+            display: flex;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            background: linear-gradient(135deg, #130328, #331162);
+        }
+    
+}

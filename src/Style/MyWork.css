@@ -1,0 +1,101 @@
+.myWork{
+    padding: 2rem 10rem;
+    color:aliceblue;
+}
+.myWorkDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:5rem 0;
+}
+.workDetails{
+    padding: 2rem;
+    z-index: 2;
+    position: absolute;
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+    width: 40%;
+}
+.workImg{
+    left:50%;
+    position: relative;
+    width: max-content;
+}
+.workImg img{
+    box-shadow: 15px white;
+    border-radius: 15px;
+    height: 20rem;
+}
+
+.workDetailsOpposite{
+    left:45%;
+    padding: 2rem;
+    z-index: 2;
+    position: absolute;
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+    width: 40%;
+}
+.workImgOpposite{
+    position: relative;
+    width: max-content;
+}
+.workImgOpposite img{
+    box-shadow: 15px white;
+    border-radius: 15px;
+    height: 20rem;
+}
+@media screen and (max-width: 768px) {
+    .myWork{
+        padding: 2rem 1rem;
+        color:aliceblue;
+    }
+    .workDetails{
+        padding: 2rem;
+        z-index: 2;
+        position: absolute;
+        backdrop-filter: blur(10px);
+        border-radius: 15px;
+        width: 80%;
+    }
+    .workImg{
+        left:0%;
+        position: relative;
+        width: 100%;
+    }
+    .myWorkDiv{
+        margin: 5rem 0;
+        display: block;
+        padding:1rem 0;
+        position:relative;
+    }
+
+    .workDetailsOpposite{
+        left: 0%;
+        padding: 2rem;
+        z-index: 2;
+        position: absolute;
+        -webkit-backdrop-filter: blur(10px);
+        backdrop-filter: blur(10px);
+        width: 80%;
+        border-radius: 15px;
+       
+        top: 15px;
+    }
+    .workImgOpposite{
+        position: relative;
+        width: 100%;
+    }
+    .workImg img{
+        box-shadow: 15px white;
+        border-radius: 15px;
+        width: 80%;
+        height: 14rem;
+    }
+    .workImgOpposite img{
+        box-shadow: 15px white;
+        width: 80%;
+        border-radius: 15px;
+        height: 14rem;
+    }
+}

@@ -1,0 +1,75 @@
+/* Base styles */
+.navBg {
+    background-color: #1a0b2e;
+    display: flex;
+    height: 4rem;
+    color: aliceblue;
+    justify-content: space-between;
+    padding: 0 10rem;
+    align-items: center;
+    position: relative;
+}
+
+.logo {
+    padding: .5rem;
+    max-width: 60px; 
+}
+
+.hamburger {
+    display: none;
+    background: none;
+    border: none;
+    color: aliceblue;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.links {
+    display: flex;
+    list-style: none;
+    width: 30%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navLinks {
+    color: blueviolet;
+}
+
+@media screen and (max-width: 768px) {
+    .navBg {
+        padding: 0 1rem;
+    }
+
+    .hamburger {
+        display: block;
+    }
+
+    .links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        background-color: #1a0b2e;
+        position: absolute;
+        top: 4rem;
+        left: 0;
+        padding: 10px 0;
+    }
+
+    .links.open {
+        display: flex;
+    }
+
+    .navLinks {
+        margin: 10px 0;
+        font-size: 1.2em;
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 769px) {
+    .links {
+        display: flex !important;
+    }
+}

@@ -1,0 +1,12 @@
+.skills{
+    color:aliceblue;
+    padding:2rem 10rem;
+}
+.skillsDiv{
+    padding: 2rem 0;
+}
+@media screen and (max-width: 768px) {
+    .skills{
+        padding: 2rem 1rem;
+    }
+}
