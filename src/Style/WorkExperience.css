@@ -5,7 +5,7 @@
 .workExpCont{
     padding-top: 2rem;
     display: flex;
-    justify-content: space-between;
+    gap:16px;
 }
 .ExpCard{
     width: 40%;

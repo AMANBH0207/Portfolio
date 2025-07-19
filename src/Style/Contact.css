@@ -9,6 +9,7 @@
 .allSocLinks{
     width:25%;
     display: flex;
+    gap:16px;
     justify-content: space-between;
 }
 .socialLinks{

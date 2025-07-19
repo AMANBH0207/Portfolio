@@ -75,6 +75,9 @@
 }
 
 @media screen and (max-width: 768px) {
+  .welcomeGreet h2 {
+  display: none;
+}
   .infoContainer{
       padding:5rem 1rem 5rem;
   }

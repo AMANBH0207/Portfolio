@@ -41,7 +41,7 @@ function MyWork() {
               and completed to keep the record of yout tasks.
             </p>
             <p>
-              Try It <a href="https://neon-crostata-644514.netlify.app/"><FontAwesomeIcon icon={faUpRightFromSquare} /></a>
+              Try It <a href="https://task-management-react-five.vercel.app/"><FontAwesomeIcon icon={faUpRightFromSquare} /></a>
             </p>
           </div>
         </div>

@@ -36,16 +36,12 @@
     color: blueviolet;
 }
 
-@media screen and (max-width: 768px) {
-    .navBg {
-        padding: 0 1rem;
-    }
 
+@media screen and (max-width: 1199px) {
     .hamburger {
         display: block;
     }
-
-    .links {
+     .links {
         display: none;
         flex-direction: column;
         width: 100%;
@@ -54,6 +50,9 @@
         top: 4rem;
         left: 0;
         padding: 10px 0;
+    }
+    .navBg {
+        padding: 0 1rem;
     }
 
     .links.open {
@@ -68,7 +67,8 @@
     }
 }
 
-@media screen and (min-width: 769px) {
+
+@media screen and (min-width: 1199px) {
     .links {
         display: flex !important;
     }

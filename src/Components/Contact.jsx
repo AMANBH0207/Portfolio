@@ -41,7 +41,7 @@ function Contact() {
               </a>
             </div>
             <p>Or get my resume by just clicking the link below.</p>
-            <a href="https://drive.google.com/file/d/124jB14_sQoeEA5dtnYU5tyHunn6CDcLZ/view?usp=drive_link">
+            <a href="https://drive.google.com/file/d/1CRMEXLOyaUaqCLK-Ig2Si6kk2eyevWFf/view?usp=drive_link">
               <FontAwesomeIcon
                 icon={faFile}
                 className="socialLinks"
