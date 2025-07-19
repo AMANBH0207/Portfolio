@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c09b44a0.css",
-    "main.js": "/Portfolio/static/js/main.84770c2c.js",
+    "main.css": "/Portfolio/static/css/main.f05b678c.css",
+    "main.js": "/Portfolio/static/js/main.f7e8c217.js",
     "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
     "static/media/InfoWeather.png": "/Portfolio/static/media/InfoWeather.148aabc03fee7414242b.png",
     "static/media/ChatXR.png": "/Portfolio/static/media/ChatXR.c1ecf87a977b4ca7a9d5.png",
     "static/media/skills.svg": "/Portfolio/static/media/skills.1cb2bac017c2888d38db40e74b1af59a.svg",
     "static/media/TaskManagement.png": "/Portfolio/static/media/TaskManagement.28404e20c0d2be67f9aa.png",
     "static/media/Logo-NoBG.png": "/Portfolio/static/media/Logo-NoBG.0d13a47ac36f0d8d36bc.png",
+    "static/media/KushubMedia.png": "/Portfolio/static/media/KushubMedia.153dda790565aa1cd349.png",
     "static/media/CodeJi.png": "/Portfolio/static/media/CodeJi.4819de2ef7df98851934.png",
     "static/media/Arohar.png": "/Portfolio/static/media/Arohar.8c8376ae7ebcef3537f0.png",
     "static/media/Logo.png": "/Portfolio/static/media/Logo.c26f82f2789a69a63034.png",
     "index.html": "/Portfolio/index.html",
-    "main.c09b44a0.css.map": "/Portfolio/static/css/main.c09b44a0.css.map",
-    "main.84770c2c.js.map": "/Portfolio/static/js/main.84770c2c.js.map",
+    "main.f05b678c.css.map": "/Portfolio/static/css/main.f05b678c.css.map",
+    "main.f7e8c217.js.map": "/Portfolio/static/js/main.f7e8c217.js.map",
     "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c09b44a0.css",
-    "static/js/main.84770c2c.js"
+    "static/css/main.f05b678c.css",
+    "static/js/main.f7e8c217.js"
   ]
 }
