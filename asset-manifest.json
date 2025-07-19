@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f05b678c.css",
+    "main.css": "/Portfolio/static/css/main.25fdcbb5.css",
     "main.js": "/Portfolio/static/js/main.f7e8c217.js",
     "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
     "static/media/InfoWeather.png": "/Portfolio/static/media/InfoWeather.148aabc03fee7414242b.png",
@@ -13,12 +13,12 @@
     "static/media/Arohar.png": "/Portfolio/static/media/Arohar.8c8376ae7ebcef3537f0.png",
     "static/media/Logo.png": "/Portfolio/static/media/Logo.c26f82f2789a69a63034.png",
     "index.html": "/Portfolio/index.html",
-    "main.f05b678c.css.map": "/Portfolio/static/css/main.f05b678c.css.map",
+    "main.25fdcbb5.css.map": "/Portfolio/static/css/main.25fdcbb5.css.map",
     "main.f7e8c217.js.map": "/Portfolio/static/js/main.f7e8c217.js.map",
     "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f05b678c.css",
+    "static/css/main.25fdcbb5.css",
     "static/js/main.f7e8c217.js"
   ]
 }
